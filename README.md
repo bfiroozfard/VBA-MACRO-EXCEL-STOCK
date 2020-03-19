@@ -31,7 +31,7 @@
 
 * Make the appropriate adjustments to your script that will allow it to run on every worksheet, i.e., every year, just by running it once.
 
-###Output
+### Output
   * A screen shot for each year of your results on the Multi Year Stock Data.
 
   * VBA Scripts as separate files.
